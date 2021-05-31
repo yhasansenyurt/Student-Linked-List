@@ -1,4 +1,4 @@
-# Student-Linked-List
+# Student LinkedList
 Öğrencilerin ismine, soyismine ve numaralarına göre sıralayan linked list. (Linked list which sorts students via their names, surnames and ids.)
 
 Not: Programa 'students.txt' text dosyasının içindeki formatta input dosyası ve herhangi bir output dosyası verilmelidir. Bu input ve output dosyaları command line argument şeklinde verilmelidir.
